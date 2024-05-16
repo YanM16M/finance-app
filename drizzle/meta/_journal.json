@@ -15,6 +15,20 @@
       "when": 1715497331342,
       "tag": "0001_parallel_ender_wiggin",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1715679592144,
+      "tag": "0002_hard_shiva",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1715704600369,
+      "tag": "0003_rich_ultragirl",
+      "breakpoints": true
     }
   ]
 }
